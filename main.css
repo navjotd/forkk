@@ -1,0 +1,29 @@
+body {
+	background-color: #142030;
+	font-family: 'Lato', sans-serif;
+}
+
+.title {
+	color: #FFCA6E;
+	margin: 0;
+	padding: 0;
+	margin-top: 100px;
+	text-align: center;
+	font-size: 18px;
+	font-weight: 300;
+	font-style: italic;
+	letter-spacing: 1.5px;
+}
+
+.welcome {
+	margin: 0;
+	padding: 0;
+	color: #768C9E;
+	font-size: 18px;
+	letter-spacing: 1px;
+	font-weight: 300;
+	font-style: italic;
+	text-align: center;
+	padding-top: 0px;
+	margin-top: 15px;
+}
